@@ -1,0 +1,35 @@
+{
+  "name": "ts-test-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasmik-S/ts-test-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasmik-S/ts-test-library/issues"
+  },
+  "homepage": "https://github.com/Hasmik-S/ts-test-library#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "@material-ui/core": "^4.3.2",
+    "@material-ui/styles": "^4.3.0",
+    "@uxpin/merge-cli": "^2.3.0",
+    "babel-loader": "^8.0.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
